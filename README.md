@@ -2,7 +2,7 @@
 
 <h1 align="center">Heyy wasupp? I'm Yassine SAHOUANE 🤙<width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Cloud&DevOps+Enthusiastic;ML+Enthusiastic)](https://git.io/typing-svg)
   
   
 <!--<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">-->
@@ -38,9 +38,8 @@ Here are some ideas to get you started:
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-     <a href="https://www.php.net/" target="_blank"> <img src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" alt="express" width="48" height="48"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" /> </a> 
+  
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
 </p>
 
@@ -61,7 +60,9 @@ Here are some ideas to get you started:
   <a href="https://www.scipy.org/"> <img src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" width="40" height="40"/> </a>
      <a href="https://spacy.io/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/699256981287100416/7-7zis8f_400x400.png" alt="pytorch" width="40" height="40"/> </a> 
     <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="pytorch" width="40" height="40"/> </a>   
-    <a href="https://opencv.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/376-3766513_opencv-icon-hd-png-download.png" alt="pytorch" width="44" height="40"/> </a> 
+    <a href="https://opencv.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/376-3766513_opencv-icon-hd-png-download.png" alt="pytorch" width="44" height="40"/> </a>
+      <a href="" target="_blank"> <img src="https://miro.medium.com/max/1294/1*PBTTH5RGrfT1RBXxr989XQ.png" alt="j2ee" width="44" height="40"/> </a> 
+
 </p>
 
   

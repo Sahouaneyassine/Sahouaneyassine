@@ -8,7 +8,7 @@
 <!--<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">-->
 
 <!--
-**SumanthBajjuri07/SumanthBajjuri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sahouaneyassine/Sahouaneyassine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -91,25 +91,25 @@ Here are some ideas to get you started:
   
 
   
-  <a href="https://github.com/SumanthBajjuri07/android-app-market-on-Gplay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=android-app-market-on-Gplay&theme=great-gatsby" />
+  <a href="https://github.com/Sahouaneyassine/android-app-market-on-Gplay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahouaneyassine&repo=android-app-market-on-Gplay&theme=great-gatsby" />
 </a>
-<a href="https://github.com/SumanthBajjuri07/clear-date-predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=clear-date-predictor&theme=great-gatsby" />
-</a>
-
-  <a href="https://github.com/SumanthBajjuri07/project-football-matches">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=project-football-matches&theme=great-gatsby" />
-</a>
-<a href="https://github.com/SumanthBajjuri07/investigating-the-netflix-movies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=investigating-the-netflix-movies&theme=great-gatsby" />
+<a href="https://github.com/Sahouaneyassine/clear-date-predictor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahouaneyassine&repo=clear-date-predictor&theme=great-gatsby" />
 </a>
 
-  <a href="https://github.com/SumanthBajjuri07/disney-movies-and-box-office-success">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=disney-movies-and-box-office-success&theme=great-gatsby" />
+  <a href="https://github.com/Sahouaneyassine/project-football-matches">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahouaneyassine&repo=project-football-matches&theme=great-gatsby" />
 </a>
-<a href="https://github.com/SumanthBajjuri07/collab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=collab&theme=great-gatsby" />
+<a href="https://github.com/Sahouaneyassine/investigating-the-netflix-movies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahouaneyassine&repo=investigating-the-netflix-movies&theme=great-gatsby" />
+</a>
+
+  <a href="https://github.com/Sahouaneyassine/disney-movies-and-box-office-success">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahouaneyassine&repo=disney-movies-and-box-office-success&theme=great-gatsby" />
+</a>
+<a href="https://github.com/Sahouaneyassine/collab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahouaneyassine&repo=collab&theme=great-gatsby" />
 </a>
   
   
@@ -118,21 +118,21 @@ Here are some ideas to get you started:
   <br>
   
 
-  ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
+  ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahouaneyassine&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
   
   
   
   
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthBajjuri07&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahouaneyassine&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
   
    
  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&theme=great-gatsby&count_private=true&hide=issues"  />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Sahouaneyassine&theme=great-gatsby&count_private=true&hide=issues"  />
 </a>
 -->
   
@@ -142,8 +142,8 @@ Here are some ideas to get you started:
   
   
   <p align="center">
-  <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshHingal&layout=compact&theme=solarized-light"> <br>-->
-  <img src="https://profile-counter.glitch.me/SumanthBajjuri07/count.svg">
+  <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahouaneyassine&layout=compact&theme=solarized-light"> <br>-->
+  <img src="https://profile-counter.glitch.me/Sahouaneyassine/count.svg">
 </p>
 
   
@@ -155,7 +155,7 @@ Here are some ideas to get you started:
 <p align="left"> 
     <a href="https://www.linkedin.com/in/sahouane-yassine/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="express" width="37" height="37"/> </a>
     <a href="sahouane.ensa@uhp.ac.ma" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="express" width="42" height="42"/ > </a>
-    <a href="https://wa.link/3fjxvn" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="express" width="37" height="36"/ > </a>  
+    <a href="https://wa.me/212659415645" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="express" width="37" height="36"/ > </a>  
 </p>
 
 -----------------

@@ -98,19 +98,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahouaneyassine&repo=personal_portfolio&theme=great-gatsby" />
 </a>
 
-  <a href="https://github.com/Sahouaneyassine/project-football-matches">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahouaneyassine&repo=project-football-matches&theme=great-gatsby" />
-</a>
-<a href="https://github.com/Sahouaneyassine/investigating-the-netflix-movies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahouaneyassine&repo=investigating-the-netflix-movies&theme=great-gatsby" />
+  <a href="https://github.com/Sahouaneyassine/AirbnbHostsAnalysisDashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahouaneyassine&repo=AirbnbHostsAnalysisDashboard&theme=great-gatsby" />
 </a>
 
-  <a href="https://github.com/Sahouaneyassine/disney-movies-and-box-office-success">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahouaneyassine&repo=disney-movies-and-box-office-success&theme=great-gatsby" />
-</a>
-<a href="https://github.com/Sahouaneyassine/collab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahouaneyassine&repo=collab&theme=great-gatsby" />
-</a>
   
   
  
